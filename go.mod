@@ -1,3 +1,3 @@
-module github.com/mrcyna/pipeline-to-bson
+module github.com/qnsoft/pipeline-to-bson
 
 go 1.16
